@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/MountingHole:MountingHole",
+  "name": "MountingHole",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/MountingHole.kicad_sym",
+  "description": "Mounting Hole without connection",
+  "datasheet": "",
+  "keywords": "mounting hole",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/MountingHole/",
+  "part_path": "parts/MountingHole",
+  "symbol_file": "parts/MountingHole/MountingHole.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.344Z"
+}

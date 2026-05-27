@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/MouseBite:MouseBite",
+  "name": "MouseBite",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/MouseBite.kicad_sym",
+  "description": "Mouse bites, break lines",
+  "datasheet": "",
+  "keywords": "mouse break line",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/MouseBite/",
+  "part_path": "parts/MouseBite",
+  "symbol_file": "parts/MouseBite/MouseBite.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.347Z"
+}

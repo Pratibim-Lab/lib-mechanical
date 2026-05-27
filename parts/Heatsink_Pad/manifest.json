@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/Heatsink_Pad:Heatsink_Pad",
+  "name": "Heatsink_Pad",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/Heatsink_Pad.kicad_sym",
+  "description": "Heatsink with electrical connection, 1 pin",
+  "datasheet": "",
+  "keywords": "thermal heat temperature",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/Heatsink_Pad/",
+  "part_path": "parts/Heatsink_Pad",
+  "symbol_file": "parts/Heatsink_Pad/Heatsink_Pad.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.327Z"
+}

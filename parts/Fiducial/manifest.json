@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/Fiducial:Fiducial",
+  "name": "Fiducial",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/Fiducial.kicad_sym",
+  "description": "Fiducial Marker",
+  "datasheet": "",
+  "keywords": "fiducial marker",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/Fiducial/",
+  "part_path": "parts/Fiducial",
+  "symbol_file": "parts/Fiducial/Fiducial.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.322Z"
+}

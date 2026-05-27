@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/Housing_Pad:Housing_Pad",
+  "name": "Housing_Pad",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/Housing_Pad.kicad_sym",
+  "description": "Housing with connection pin",
+  "datasheet": "",
+  "keywords": "housing enclosure shield",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/Housing_Pad/",
+  "part_path": "parts/Housing_Pad",
+  "symbol_file": "parts/Housing_Pad/Housing_Pad.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.333Z"
+}

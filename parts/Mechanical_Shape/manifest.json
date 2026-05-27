@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/Mechanical_Shape:Mechanical_Shape",
+  "name": "Mechanical_Shape",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/Mechanical_Shape.kicad_sym",
+  "description": "Mechanical shape, non-electric, board outlines",
+  "datasheet": "",
+  "keywords": "Mechanical Shape Outline",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/Mechanical_Shape/",
+  "part_path": "parts/Mechanical_Shape",
+  "symbol_file": "parts/Mechanical_Shape/Mechanical_Shape.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.336Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/Heatsink:Heatsink",
+  "name": "Heatsink",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/Heatsink.kicad_sym",
+  "description": "Heatsink",
+  "datasheet": "",
+  "keywords": "thermal heat temperature",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/Heatsink/",
+  "part_path": "parts/Heatsink",
+  "symbol_file": "parts/Heatsink/Heatsink.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.331Z"
+}

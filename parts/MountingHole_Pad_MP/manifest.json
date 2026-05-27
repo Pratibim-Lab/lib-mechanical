@@ -1,0 +1,17 @@
+{
+  "id": "Mechanical/MountingHole_Pad_MP:MountingHole_Pad_MP",
+  "name": "MountingHole_Pad_MP",
+  "library": "Mechanical",
+  "file": "Mechanical.kicad_symdir/MountingHole_Pad_MP.kicad_sym",
+  "description": "Mounting Hole with connection as pad named MP",
+  "datasheet": "",
+  "keywords": "mounting hole",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mechanical@master/parts/MountingHole_Pad_MP/",
+  "part_path": "parts/MountingHole_Pad_MP",
+  "symbol_file": "parts/MountingHole_Pad_MP/MountingHole_Pad_MP.kicad_sym",
+  "source_library": "Mechanical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:10:05.339Z"
+}
